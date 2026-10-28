@@ -1,0 +1,6 @@
+{
+  "name": "澄光珈琲 Kissa Lumière",
+  "description": "自家直火烘焙、精品手沖單品豆、職人義式咖啡與手作洋菓子，提供線上點餐、風味探索沖煮指南與席位預約。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
